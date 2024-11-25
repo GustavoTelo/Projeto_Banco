@@ -1,0 +1,2 @@
+Cliente: gustavo, Banco: santander, Agência: kaka, Data: 25/11/2024, Tipo: entrada, Valor: R$100.00
+Cliente: gustavo, Banco: santander, Agência: kaka, Data: 25/11/2024, Tipo: saida, Valor: R$50.00
